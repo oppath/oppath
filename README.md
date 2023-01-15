@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oppath
+- 👋 Hi, I’m Santhosh
 - 👀 I’m interested in PHP Module Development
-- 🌱 I’m currently learning Magento, AWS
+- 🌱 I’m currently working on Magento2 & learning AWS
 - 💞️ I’m looking to collaborate on all type of application module development
 - 📫 How to reach me santhoshoppath@gmail.com
 
